@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.exe
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.deps.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.runtimeconfig.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\bin\Debug\net10.0\sess02_csharp_building_blocks.pdb
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.sourcelink.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\refint\sess02_csharp_building_blocks.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.pdb
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\sess02_csharp_building_blocks.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess02_csharp_building_blocks\obj\Debug\net10.0\ref\sess02_csharp_building_blocks.dll
