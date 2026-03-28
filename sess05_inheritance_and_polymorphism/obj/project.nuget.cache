@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNUlfUSqyq8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\Course Work\\Sem 2\\06_developing_applications_with_c#\\adse2501\\sess05_inheritance_and_polymorphism\\sess05_inheritance_and_polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
