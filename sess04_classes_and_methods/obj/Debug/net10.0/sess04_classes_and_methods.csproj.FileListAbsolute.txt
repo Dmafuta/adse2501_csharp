@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\bin\Debug\net10.0\sess04_classes_and_methods.exe
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\bin\Debug\net10.0\sess04_classes_and_methods.deps.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\bin\Debug\net10.0\sess04_classes_and_methods.runtimeconfig.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\bin\Debug\net10.0\sess04_classes_and_methods.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\bin\Debug\net10.0\sess04_classes_and_methods.pdb
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.sourcelink.json
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\refint\sess04_classes_and_methods.dll
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.pdb
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\sess04_classes_and_methods.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net10.0\ref\sess04_classes_and_methods.dll

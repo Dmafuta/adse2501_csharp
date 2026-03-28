@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "sess04_classes_and_methods/1.0.0": {
+        "runtime": {
+          "sess04_classes_and_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sess04_classes_and_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
