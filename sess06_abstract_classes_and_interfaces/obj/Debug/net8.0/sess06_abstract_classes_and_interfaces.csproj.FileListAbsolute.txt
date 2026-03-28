@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Course Work\Sem 2\06_developing_applications_with_c#\adse2501\sess06_abstract_classes_and_interfaces\obj\Debug\net8.0\sess06_abstract_classes_and_interfaces.sourcelink.json
